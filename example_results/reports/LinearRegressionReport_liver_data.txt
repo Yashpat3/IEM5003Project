@@ -1,0 +1,10 @@
+RESULT FOR LINEAR REGRESSION ON liver_data data
+Training Data File : data/liver_data_train.csv
+Test Data File : data/liver_data_test.csv
+The no of variables : 5, no of entries : 294, no of regression coefficients : 6
+R^2 score : 0
+Regression parameters : [ 0]
+F Score : 0
+Test Statistic : 0
+P-Value : 0
+Both tests returned the same result

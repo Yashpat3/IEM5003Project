@@ -1,0 +1,11 @@
+HypothesisTestQuestion 2.A: Construct Hypothesis Test that measurement standard deviation differ from 0.01 grams?
+	 H_0: sigma^2=0.01^2 
+	 H_1: sigma^2 != 0.01^2 
+	 alpha=0.05 
+	 s2:0	 df:14 	 ch2_0:0 	 chi2_1_alpha_n_1:0 	 chi2_alpha_n_1:0
+	 Fail to Reject/Reject H_0: There is --- evidence that measurement standard deviation differ from 0.01 grams
+HypothesisTestQuestion 2.B: Obtain P-Value for Hypothesis Test that measurement standard deviation differ from 0.01 grams?
+	 H_0: sigma^2=0.01^2 
+	 H_1: sigma^2 != 0.01^2 
+	 alpha=0.05 
+	 pval:0

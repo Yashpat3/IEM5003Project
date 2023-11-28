@@ -1,7 +1,7 @@
 import numpy as np
-import csv
-
-#import the right packages here for linear regression and hypothesis testing
+import csv, os
+from sklearn.linear_model import LinearRegression
+import scipy.stats as stats
 
 class LinearRegressor:
 
@@ -17,7 +17,7 @@ class LinearRegressor:
 
         self.p = self.k+1
 
-        self.reportfile = open("LinearRegressionReport_{}.txt".format(self.name), "w")
+        self.reportfile = open(os.path.join("results","reports","LinearRegressionReport_{}.txt".format(self.name)), "w")
         self.reportfile.write("RESULT FOR LINEAR REGRESSION ON {} data\n".format(self.name))
         self.reportfile.write("Training Data File : {}\n".format(trainfilename))
         self.reportfile.write("Test Data File : {}\n".format(testfilename))
@@ -104,60 +104,56 @@ class LinearRegressor:
 
         return y_test_pred-self.y_test
 
-    def linearRegression(self,X,y):
-        #do linear regression
+    def linearRegression(self, X, y):
+        #TODO: do linear regression
 
+        #TODO: obtain coefficient of determination
 
-        #obtain coefficient of determination
+        #TODO: obtain prediction parameters
 
+        #TODO: do prediction on data
 
-        #obtain prediction parameters
-
-
-        #do prediction on data
-
-
-        return reg,score,params,y_pred
+        return reg, score, params, y_pred
 
     def computeResiduals(self,y_pred,y):
-        # compute residuals
+        #TODO: compute residuals
 
         return residuals
 
     def computeSSE(self,residuals):
 
-        #compute SSE
+        #TODO: compute SSE
 
         return SSE
 
     def computeSSR(self,y_pred,y):
 
-        #compute SSR
+        #TODO: compute SSR
 
         return SSR
 
     def computeFScore(self,alpha,k,n,p):
 
-        #compute Fscore
+        #TODO: compute Fscore
 
         return f
 
     def computeFTestStatistic(self,y_pred,y,residuals,alpha,k,n,p):
 
-        #compute test statistic
+        #TODO: compute test statistic
 
-        #test statistic
+        #TODO: test statistic
         return f_0
 
     def computepValue(self,test_statistic,alpha,k,n,p):
 
-        #compute p-value
+        #TODO: compute p-value
 
         return pValue
 
     def predictNewObservations(self,lin_reg,X):
 
-        #predict new data
+        #TODO: predict new data
 
         return y_test_pred
 

@@ -1,7 +1,6 @@
 import numpy as np
-import csv
-
-#import the right packages here for logistic regression
+import csv,os
+from sklearn.linear_model import LogisticRegression
 
 
 class LogisticRegressor:
@@ -18,7 +17,7 @@ class LogisticRegressor:
 
         self.p = self.k+1
 
-        self.reportfile = open("LogisticRegressionReport_{}.txt".format(self.name), "w")
+        self.reportfile = open(os.path.join("results","reports","LogisticRegressionReport_{}.txt".format(self.name)), "w")
         self.reportfile.write("RESULT FOR LOGISTIC REGRESSION ON {} data\n".format(self.name))
         self.reportfile.write("Training Data File : {}\n".format(trainfilename))
         self.reportfile.write("Test Data File : {}\n".format(testfilename))
@@ -64,27 +63,23 @@ class LogisticRegressor:
 
         return y_test_pred-self.y_test
 
-    def logisticRegression(self,X,y):
+    def logisticRegression(self, X, y):
+        #TODO: do logistic regression
 
-        #do logistic regression
+        #TODO: obtain coefficient of determination
 
+        #TODO: obtain prediction parameters
 
-        # obtain coefficient of determination
-
-
-        # obtain prediction parameters
-
-
-        # do prediction of testdata
+        #TODO: do prediction on data
 
         return reg, score, params, y_pred
 
-    def computeResiduals(self,y_pred,y):
-        # compute residuals
+    def computeResiduals(self, y_pred, y):
+        #TODO: compute residuals
 
         return residuals
 
-    def predictNewObservations(self,lin_reg,X):
-        # predict on new data
+    def predictNewObservations(self, lin_reg, X):
+        #TODO: predict on new data
 
         return y_test_pred
