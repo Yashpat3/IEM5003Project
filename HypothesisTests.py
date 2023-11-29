@@ -25,7 +25,9 @@ def HypothesisTest1():
     alpha = 0.05
 
     # TODO: find out the number of observations (NO HARDCODING ALLOWED, determine using built in python or numpy functions for eg: len(data))
-    n = 0
+    data = np.array(data)
+    n = len(data)
+    print(n)
 
     # TODO:start out with assuming null hypothesis is true
     mu = 0
@@ -110,3 +112,6 @@ def HypothesisTest2():
     reportfile.write("\t pval:{}\n".format(pvalue))
 
     reportfile.close()
+    
+    if __name__ == '__main__':
+        HypothesisTest1()
