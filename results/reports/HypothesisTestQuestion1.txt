@@ -1,0 +1,6 @@
+Question 1.A: Construct Hypothesis Test that mean distance exceeds 280 yards
+	 H_0: mu=280 
+	 H_1: mu>280 
+	 alpha=0.05 
+	 x_bar:260.30199999999996 	 s:13.408281625980868 	 t_0:-14.690920544085046 	 df:99 	 t_alpha_n_1:1.6603911559963895
+	 Fail to Reject H_0: There is INSUFFICIENT evidence that mean distance is greater than 280

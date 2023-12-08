@@ -30,22 +30,22 @@ def HypothesisTest1():
     print(n)
 
     # TODO:start out with assuming null hypothesis is true
-    mu = 0
+    mu = 280
 
     # TODO:calculate sample mean
-    x_bar = 0
+    x_bar = np.mean(data)
 
     # TODO:calculate sample variance
-    s = 0
+    s = np.std(data, ddof = 1)
 
     # TODO:test statistic (using t-distribution)
-    t_0 = 0
+    t_0 = (x_bar - mu) / (s / np.sqrt(n))
 
     # TODO:determine degrees of freedom
-    df = 0
+    df = n - 1
 
     # TODO:calculate t(alpha,n-1) critical region
-    t_alpha_n_1 = 0
+    t_alpha_n_1 = t.ppf(1 - alpha, df)
 
     reportfile.write("\t x_bar:{} \t s:{} \t t_0:{} \t df:{} \t t_alpha_n_1:{}\n".format(x_bar, s, t_0, df, t_alpha_n_1))
 
@@ -71,23 +71,25 @@ def HypothesisTest2():
     alpha = 0.05
 
     # TODO: find out the number of observations (NO HARDCODING ALLOWED, determine using built in python or numpy functions for eg: len(data))
-    n = 0
+    data = np.array(data)
+    n = len(data)
+    print(n)
 
     # TODO:start out with assuming null hypothesis is true
-    sigma2 = 0
+    sigma2 = 0.01 ** 2
 
     # TODO:determine degrees of freedom df
-    df = 0
+    df = n - 1
 
     # TODO:compute sample variance
-    s2 = 0
+    s2 = np.std (data, ddof = 1)
 
     # TODO:compute test statistic
-    chi2_0 = 0
+    chi2_0 = (n - 1) * s2 / sigma2
 
     # TODO:compute chi2_1_alpha_n_1,chi2alpha_n_1 ie. limits of critical region
-    chi2_1_alpha_n_1 = 0
-    chi2_alpha_n_1 = 0
+    chi2_1_alpha_n_1 = chi2.ppf(alpha / 2, df)
+    chi2_alpha_n_1 = chi2.ppf(1 - alpha / 2, df)
 
     reportfile.write("\t s2:{} \t df:{} \t ch2_0:{} \t chi2_1_alpha_n_1:{} \t chi2_alpha_n_1:{}\n".format(s2, df, chi2_0,
                                                                                                chi2_1_alpha_n_1,

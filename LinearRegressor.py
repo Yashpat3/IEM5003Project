@@ -106,54 +106,67 @@ class LinearRegressor:
 
     def linearRegression(self, X, y):
         #TODO: do linear regression
+        reg = LinearRegression()
+        reg.fit(X, y)
 
         #TODO: obtain coefficient of determination
+        score = reg.score(X, y)
 
         #TODO: obtain prediction parameters
-
+        params = np.append(reg.intercept_, reg.coef_)
+        
         #TODO: do prediction on data
+        y_pred = reg.predict(X)
 
         return reg, score, params, y_pred
 
     def computeResiduals(self,y_pred,y):
         #TODO: compute residuals
+        residuals = y - y_pred
 
         return residuals
 
     def computeSSE(self,residuals):
 
         #TODO: compute SSE
-
+        SSE = np.sum(np.power(residuals , 2))
         return SSE
 
     def computeSSR(self,y_pred,y):
-
         #TODO: compute SSR
-
+        y_mean = np.mean(y)
+        SSR = np.sum(np.power((y_pred - np.mean(y)) , 2))
         return SSR
 
     def computeFScore(self,alpha,k,n,p):
 
         #TODO: compute Fscore
+        f = stats.f.ppf (alpha, k , n - p)
 
         return f
 
     def computeFTestStatistic(self,y_pred,y,residuals,alpha,k,n,p):
 
         #TODO: compute test statistic
+        SSE = np.sum(np.power(residuals , 2))
+        SSR = np.sum(np.power((y_pred - np.mean(y)) , 2))
 
         #TODO: test statistic
+        f_0 = (SSR/k) / (SSE/(n-p))
+        
         return f_0
 
     def computepValue(self,test_statistic,alpha,k,n,p):
 
         #TODO: compute p-value
+        pValue = 1 - stats.f.cdf(test_statistic, k, n - p)
 
         return pValue
 
     def predictNewObservations(self,lin_reg,X):
 
         #TODO: predict new data
+        y_test_pred = lin_reg.predict(X)
 
         return y_test_pred
 
