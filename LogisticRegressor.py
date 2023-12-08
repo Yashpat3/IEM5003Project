@@ -65,10 +65,11 @@ class LogisticRegressor:
 
     def logisticRegression(self, X, y):
         #TODO: do logistic regression
-        reg = LogisticRegression(X, y)
+        reg = LogisticRegression()
+        reg.fit(X, y)
 
         #TODO: obtain coefficient of determination
-        score = reg.fit(X, y)
+        score = reg.score(X, y)
 
         #TODO: obtain prediction parameters
         params = np.append(reg.intercept_, reg.coef_)
