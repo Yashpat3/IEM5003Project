@@ -2,3 +2,6 @@ RESULT FOR LOGISTIC REGRESSION ON wine_quality data
 Training Data File : data\wine_quality_train.csv
 Test Data File : data\wine_quality_test.csv
 The no of variables : 11, no of entries : 2999, no of regression coefficients : 12
+R^2 score : 0.7939313104368123
+Regression parameters : [-1.90849045 -0.27683426 -3.21822844 -0.46855354  0.04053773 -0.58537461
+  0.00934078 -0.00490736 -1.7911769  -1.07063431  1.98496987  0.72531867]
