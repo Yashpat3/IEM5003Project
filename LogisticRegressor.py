@@ -65,21 +65,27 @@ class LogisticRegressor:
 
     def logisticRegression(self, X, y):
         #TODO: do logistic regression
+        reg = LogisticRegression(X, y)
 
         #TODO: obtain coefficient of determination
+        score = reg.fit(X, y)
 
         #TODO: obtain prediction parameters
+        params = np.append(reg.intercept_, reg.coef_)
 
         #TODO: do prediction on data
+        y_pred = reg.predict(X)
 
         return reg, score, params, y_pred
 
     def computeResiduals(self, y_pred, y):
         #TODO: compute residuals
+        residuals = y - y_pred
 
         return residuals
 
     def predictNewObservations(self, lin_reg, X):
         #TODO: predict on new data
+        y_test_pred = lin_reg.predict(X)
 
         return y_test_pred

@@ -159,7 +159,7 @@ class LinearRegressor:
     def computepValue(self,test_statistic,alpha,k,n,p):
 
         #TODO: compute p-value
-        pValue = 1 - stats.f.cdf(test_statistic, k, n - p)
+        pValue = stats.f.sf(test_statistic, k, n - p)
 
         return pValue
 
