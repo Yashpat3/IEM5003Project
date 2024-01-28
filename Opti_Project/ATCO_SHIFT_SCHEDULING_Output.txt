@@ -1,647 +1,322 @@
-1th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 248 
-Shift 2 : Time Period 348 
-Shift 3 : Time Period 627 
-Shift 4 : Time Period 734 
-Shift 5 : Time Period 829 
-Shift 6 : Time Period 893 
-Shift 7 : Time Period 1020 
-Shift 8 : Time Period 1116 
-Shift 9 : Time Period 1183 
-Shift 10 : Time Period 1266 
-2th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 29 
-Shift 2 : Time Period 121 
-Shift 3 : Time Period 217 
-Shift 4 : Time Period 307 
-Shift 5 : Time Period 415 
-Shift 5 : OT starts at Time Period 447 & ends at Time Period 448
-Shift 6 : Time Period 594 
-Shift 7 : Time Period 719 
-Shift 7 : OT starts at Time Period 751 & ends at Time Period 752
-Shift 8 : Time Period 797 
-Shift 9 : Time Period 924 
-Shift 10 : Time Period 1018 
-3th standard schdedule's shifts should start at time period :
-4th standard schdedule's shifts should start at time period :
-5th standard schdedule's shifts should start at time period :
-6th standard schdedule's shifts should start at time period :
-7th standard schdedule's shifts should start at time period :
-8th standard schdedule's shifts should start at time period :
-9th standard schdedule's shifts should start at time period :
-10th standard schdedule's shifts should start at time period :
-11th standard schdedule's shifts should start at time period :
-12th standard schdedule's shifts should start at time period :
-13th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 307 
-Shift 3 : Time Period 427 
-Shift 4 : Time Period 503 
-Shift 5 : Time Period 685 
-Shift 6 : Time Period 799 
-Shift 7 : Time Period 875 
-Shift 8 : Time Period 991 
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1306 
-14th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 151 
-Shift 3 : Time Period 250 
-Shift 4 : Time Period 320 
-Shift 5 : Time Period 414 
-Shift 6 : Time Period 729 
-Shift 7 : Time Period 1003 
-Shift 8 : Time Period 1119 
-Shift 8 : OT starts at Time Period 1151 & ends at Time Period 1152
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1310 
-15th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 51 
-Shift 2 : Time Period 119 
-Shift 3 : Time Period 227 
-Shift 4 : Time Period 336 
-Shift 5 : Time Period 595 
-Shift 6 : Time Period 698 
-Shift 7 : Time Period 795 
-Shift 8 : Time Period 926 
-Shift 9 : Time Period 991 
-Shift 10 : Time Period 1075 
-16th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 229 
-Shift 2 : Time Period 331 
-Shift 3 : Time Period 444 
-Shift 4 : Time Period 613 
-Shift 5 : Time Period 698 
-Shift 6 : Time Period 791 
-Shift 7 : Time Period 894 
-Shift 8 : Time Period 974 
-Shift 9 : Time Period 1074 
-Shift 9 : OT starts at Time Period 1106 & ends at Time Period 1107
-Shift 10 : Time Period 1279 
-17th standard schdedule's shifts should start at time period :
-18th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 60 
-Shift 2 : Time Period 174 
-Shift 3 : Time Period 255 
-Shift 4 : Time Period 319 
-Shift 5 : Time Period 546 
-Shift 6 : Time Period 638 
-Shift 7 : Time Period 729 
-Shift 8 : Time Period 818 
-Shift 9 : Time Period 891 
-Shift 10 : Time Period 1011 
-19th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 54 
-Shift 2 : Time Period 205 
-Shift 3 : Time Period 316 
-Shift 4 : Time Period 503 
-Shift 5 : Time Period 606 
-Shift 6 : Time Period 730 
-Shift 7 : Time Period 816 
-Shift 8 : Time Period 1003 
-Shift 8 : OT starts at Time Period 1035 & ends at Time Period 1036
-Shift 9 : Time Period 1085 
-Shift 10 : Time Period 1191 
-20th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 64 
-Shift 2 : Time Period 158 
-Shift 3 : Time Period 269 
-Shift 4 : Time Period 342 
-Shift 5 : Time Period 415 
-Shift 5 : OT starts at Time Period 447 & ends at Time Period 448
-Shift 6 : Time Period 604 
-Shift 7 : Time Period 733 
-Shift 8 : Time Period 887 
-Shift 9 : Time Period 1007 
-Shift 10 : Time Period 1283 
-21th standard schdedule's shifts should start at time period :
-22th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 121 
-Shift 2 : Time Period 317 
-Shift 3 : Time Period 403 
-Shift 4 : Time Period 555 
-Shift 5 : Time Period 653 
-Shift 6 : Time Period 828 
-Shift 7 : Time Period 925 
-Shift 8 : Time Period 992 
-Shift 9 : Time Period 1182 
-Shift 10 : Time Period 1267 
-23th standard schdedule's shifts should start at time period :
-24th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 146 
-Shift 3 : Time Period 221 
-Shift 4 : Time Period 334 
-Shift 5 : Time Period 414 
-Shift 6 : Time Period 602 
-Shift 7 : Time Period 794 
-Shift 8 : Time Period 1118 
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1310 
-25th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 71 
-Shift 2 : Time Period 161 
-Shift 3 : Time Period 331 
-Shift 3 : OT starts at Time Period 363 & ends at Time Period 364
-Shift 4 : Time Period 628 
-Shift 5 : Time Period 705 
-Shift 6 : Time Period 781 
-Shift 7 : Time Period 845 
-Shift 8 : Time Period 1026 
-Shift 9 : Time Period 1102 
-Shift 10 : Time Period 1275 
-26th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 62 
-Shift 2 : Time Period 156 
-Shift 3 : Time Period 222 
-Shift 4 : Time Period 301 
-Shift 5 : Time Period 433 
-Shift 6 : Time Period 635 
-Shift 7 : Time Period 702 
-Shift 8 : Time Period 942 
-Shift 9 : Time Period 1008 
-Shift 10 : Time Period 1086 
-27th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 32 
-Shift 2 : Time Period 127 
-Shift 3 : Time Period 256 
-Shift 4 : Time Period 347 
-Shift 5 : Time Period 446 
-Shift 6 : Time Period 735 
-Shift 7 : Time Period 1024 
-Shift 8 : Time Period 1098 
-Shift 9 : Time Period 1221 
-Shift 10 : Time Period 1296 
-28th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 215 
-Shift 2 : Time Period 362 
-Shift 3 : Time Period 447 
-Shift 3 : OT starts at Time Period 479 & ends at Time Period 480
-Shift 4 : Time Period 518 
-Shift 5 : Time Period 701 
-Shift 6 : Time Period 899 
-Shift 7 : Time Period 988 
-Shift 8 : Time Period 1087 
-Shift 8 : OT starts at Time Period 1119 & ends at Time Period 1120
-Shift 9 : Time Period 1180 
-Shift 10 : Time Period 1277 
-29th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 21 
-Shift 2 : Time Period 103 
-Shift 3 : Time Period 350 
-Shift 4 : Time Period 508 
-Shift 5 : Time Period 624 
-Shift 6 : Time Period 823 
-Shift 7 : Time Period 916 
-Shift 8 : Time Period 988 
-Shift 9 : Time Period 1087 
-Shift 9 : OT starts at Time Period 1119 & ends at Time Period 1120
-Shift 10 : Time Period 1277 
-30th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 61 
-Shift 2 : Time Period 125 
-Shift 3 : Time Period 352 
-Shift 4 : Time Period 508 
-Shift 5 : Time Period 638 
-Shift 6 : Time Period 702 
-Shift 7 : Time Period 834 
-Shift 8 : Time Period 905 
-Shift 9 : Time Period 988 
-Shift 10 : Time Period 1310 
-1th compressed schdedule's shifts should start at time period :
-2th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 32
-Shift 2 : Time Period 220
-Shift 3 : Time Period 524
-Shift 4 : Time Period 607
-Shift 5 : Time Period 704
-Shift 6 : Time Period 1121
-Shift 7 : Time Period 1195
-Shift 8 : Time Period 1288
-3th compressed schdedule's shifts should start at time period :
-4th compressed schdedule's shifts should start at time period :
-5th compressed schdedule's shifts should start at time period :
-6th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 43
-Shift 2 : Time Period 417
-Shift 3 : Time Period 528
-Shift 4 : Time Period 622
-Shift 5 : Time Period 894
-Shift 6 : Time Period 1097
-Shift 7 : Time Period 1190
-Shift 8 : Time Period 1286
-Shift 8 : OT starts at Time Period 1326 & ends at Time Period 13287th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 129
-Shift 2 : Time Period 231
-Shift 3 : Time Period 425
-Shift 4 : Time Period 513
-Shift 5 : Time Period 812
-Shift 6 : Time Period 1096
-Shift 7 : Time Period 1175
-Shift 8 : Time Period 1291
-8th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 138
-Shift 2 : Time Period 234
-Shift 3 : Time Period 327
-Shift 4 : Time Period 513
-Shift 5 : Time Period 715
-Shift 6 : Time Period 811
-Shift 7 : Time Period 906
-Shift 8 : Time Period 1187
-9th compressed schdedule's shifts should start at time period :
-10th compressed schdedule's shifts should start at time period :
-11th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 37
-Shift 1 : OT starts at Time Period 77 & ends at Time Period 80Shift 2 : Time Period 139
-Shift 3 : Time Period 233
-Shift 3 : OT starts at Time Period 273 & ends at Time Period 275Shift 4 : Time Period 451
-Shift 5 : Time Period 536
-Shift 6 : Time Period 1034
-Shift 7 : Time Period 1161
-Shift 8 : Time Period 1251
-12th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 135
-Shift 2 : Time Period 443
-Shift 3 : Time Period 517
-Shift 4 : Time Period 801
-Shift 5 : Time Period 903
-Shift 6 : Time Period 1114
-Shift 7 : Time Period 1200
-Shift 8 : Time Period 1305
-13th compressed schdedule's shifts should start at time period :
-14th compressed schdedule's shifts should start at time period :
-15th compressed schdedule's shifts should start at time period :
-16th compressed schdedule's shifts should start at time period :
-17th compressed schdedule's shifts should start at time period :
-18th compressed schdedule's shifts should start at time period :
-19th compressed schdedule's shifts should start at time period :
-20th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 40
-Shift 2 : Time Period 140
-Shift 3 : Time Period 427
-Shift 4 : Time Period 515
-Shift 5 : Time Period 588
-Shift 6 : Time Period 709
-Shift 6 : OT starts at Time Period 749 & ends at Time Period 752Shift 7 : Time Period 810
-Shift 8 : Time Period 999
-21th compressed schdedule's shifts should start at time period :
-22th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 1
-Shift 2 : Time Period 128
-Shift 3 : Time Period 423
-Shift 4 : Time Period 514
-Shift 5 : Time Period 614
-Shift 5 : OT starts at Time Period 654 & ends at Time Period 656Shift 6 : Time Period 743
-Shift 7 : Time Period 903
-Shift 8 : Time Period 1186
-23th compressed schdedule's shifts should start at time period :
-24th compressed schdedule's shifts should start at time period :
-25th compressed schdedule's shifts should start at time period :
-26th compressed schdedule's shifts should start at time period :
-27th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 40
-Shift 2 : Time Period 538
-Shift 3 : Time Period 618
-Shift 4 : Time Period 714
-Shift 5 : Time Period 800
-Shift 6 : Time Period 905
-Shift 6 : OT starts at Time Period 945 & ends at Time Period 947Shift 7 : Time Period 1091
-Shift 8 : Time Period 1182
-28th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 136
-Shift 2 : Time Period 233
-Shift 3 : Time Period 394
-Shift 3 : OT starts at Time Period 434 & ends at Time Period 435Shift 4 : Time Period 491
-Shift 5 : Time Period 809
-Shift 6 : Time Period 1098
-Shift 7 : Time Period 1173
-Shift 8 : Time Period 1291
-29th compressed schdedule's shifts should start at time period :
-30th compressed schdedule's shifts should start at time period :
-1th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 248 
-Shift 2 : Time Period 348 
-Shift 3 : Time Period 627 
-Shift 4 : Time Period 734 
-Shift 5 : Time Period 829 
-Shift 6 : Time Period 893 
-Shift 7 : Time Period 1020 
-Shift 8 : Time Period 1116 
-Shift 9 : Time Period 1183 
-Shift 10 : Time Period 1266 
-2th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 29 
-Shift 2 : Time Period 121 
-Shift 3 : Time Period 217 
-Shift 4 : Time Period 307 
-Shift 5 : Time Period 415 
-Shift 5 : OT starts at Time Period 447 & ends at Time Period 448
-Shift 6 : Time Period 594 
-Shift 7 : Time Period 719 
-Shift 7 : OT starts at Time Period 751 & ends at Time Period 752
-Shift 8 : Time Period 797 
-Shift 9 : Time Period 924 
-Shift 10 : Time Period 1018 
-3th standard schdedule's shifts should start at time period :
-4th standard schdedule's shifts should start at time period :
-5th standard schdedule's shifts should start at time period :
-6th standard schdedule's shifts should start at time period :
-7th standard schdedule's shifts should start at time period :
-8th standard schdedule's shifts should start at time period :
-9th standard schdedule's shifts should start at time period :
-10th standard schdedule's shifts should start at time period :
-11th standard schdedule's shifts should start at time period :
-12th standard schdedule's shifts should start at time period :
-13th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 307 
-Shift 3 : Time Period 427 
-Shift 4 : Time Period 503 
-Shift 5 : Time Period 685 
-Shift 6 : Time Period 799 
-Shift 7 : Time Period 875 
-Shift 8 : Time Period 991 
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1306 
-14th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 151 
-Shift 3 : Time Period 250 
-Shift 4 : Time Period 320 
-Shift 5 : Time Period 414 
-Shift 6 : Time Period 729 
-Shift 7 : Time Period 1003 
-Shift 8 : Time Period 1119 
-Shift 8 : OT starts at Time Period 1151 & ends at Time Period 1152
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1310 
-15th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 51 
-Shift 2 : Time Period 119 
-Shift 3 : Time Period 227 
-Shift 4 : Time Period 336 
-Shift 5 : Time Period 595 
-Shift 6 : Time Period 698 
-Shift 7 : Time Period 795 
-Shift 8 : Time Period 926 
-Shift 9 : Time Period 991 
-Shift 10 : Time Period 1075 
-16th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 229 
-Shift 2 : Time Period 331 
-Shift 3 : Time Period 444 
-Shift 4 : Time Period 613 
-Shift 5 : Time Period 698 
-Shift 6 : Time Period 791 
-Shift 7 : Time Period 894 
-Shift 8 : Time Period 974 
-Shift 9 : Time Period 1074 
-Shift 9 : OT starts at Time Period 1106 & ends at Time Period 1107
-Shift 10 : Time Period 1279 
-17th standard schdedule's shifts should start at time period :
-18th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 60 
-Shift 2 : Time Period 174 
-Shift 3 : Time Period 255 
-Shift 4 : Time Period 319 
-Shift 5 : Time Period 546 
-Shift 6 : Time Period 638 
-Shift 7 : Time Period 729 
-Shift 8 : Time Period 818 
-Shift 9 : Time Period 891 
-Shift 10 : Time Period 1011 
-19th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 54 
-Shift 2 : Time Period 205 
-Shift 3 : Time Period 316 
-Shift 4 : Time Period 503 
-Shift 5 : Time Period 606 
-Shift 6 : Time Period 730 
-Shift 7 : Time Period 816 
-Shift 8 : Time Period 1003 
-Shift 8 : OT starts at Time Period 1035 & ends at Time Period 1036
-Shift 9 : Time Period 1085 
-Shift 10 : Time Period 1191 
-20th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 64 
-Shift 2 : Time Period 158 
-Shift 3 : Time Period 269 
-Shift 4 : Time Period 342 
-Shift 5 : Time Period 415 
-Shift 5 : OT starts at Time Period 447 & ends at Time Period 448
-Shift 6 : Time Period 604 
-Shift 7 : Time Period 733 
-Shift 8 : Time Period 887 
-Shift 9 : Time Period 1007 
-Shift 10 : Time Period 1283 
-21th standard schdedule's shifts should start at time period :
-22th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 121 
-Shift 2 : Time Period 317 
-Shift 3 : Time Period 403 
-Shift 4 : Time Period 555 
-Shift 5 : Time Period 653 
-Shift 6 : Time Period 828 
-Shift 7 : Time Period 925 
-Shift 8 : Time Period 992 
-Shift 9 : Time Period 1182 
-Shift 10 : Time Period 1267 
-23th standard schdedule's shifts should start at time period :
-24th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 30 
-Shift 2 : Time Period 146 
-Shift 3 : Time Period 221 
-Shift 4 : Time Period 334 
-Shift 5 : Time Period 414 
-Shift 6 : Time Period 602 
-Shift 7 : Time Period 794 
-Shift 8 : Time Period 1118 
-Shift 9 : Time Period 1215 
-Shift 10 : Time Period 1310 
-25th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 71 
-Shift 2 : Time Period 161 
-Shift 3 : Time Period 331 
-Shift 3 : OT starts at Time Period 363 & ends at Time Period 364
-Shift 4 : Time Period 628 
-Shift 5 : Time Period 705 
-Shift 6 : Time Period 781 
-Shift 7 : Time Period 845 
-Shift 8 : Time Period 1026 
-Shift 9 : Time Period 1102 
-Shift 10 : Time Period 1275 
-26th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 62 
-Shift 2 : Time Period 156 
-Shift 3 : Time Period 222 
-Shift 4 : Time Period 301 
-Shift 5 : Time Period 433 
-Shift 6 : Time Period 635 
-Shift 7 : Time Period 702 
-Shift 8 : Time Period 942 
-Shift 9 : Time Period 1008 
-Shift 10 : Time Period 1086 
-27th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 32 
-Shift 2 : Time Period 127 
-Shift 3 : Time Period 256 
-Shift 4 : Time Period 347 
-Shift 5 : Time Period 446 
-Shift 6 : Time Period 735 
-Shift 7 : Time Period 1024 
-Shift 8 : Time Period 1098 
-Shift 9 : Time Period 1221 
-Shift 10 : Time Period 1296 
-28th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 215 
-Shift 2 : Time Period 362 
-Shift 3 : Time Period 447 
-Shift 3 : OT starts at Time Period 479 & ends at Time Period 480
-Shift 4 : Time Period 518 
-Shift 5 : Time Period 701 
-Shift 6 : Time Period 899 
-Shift 7 : Time Period 988 
-Shift 8 : Time Period 1087 
-Shift 8 : OT starts at Time Period 1119 & ends at Time Period 1120
-Shift 9 : Time Period 1180 
-Shift 10 : Time Period 1277 
-29th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 21 
-Shift 2 : Time Period 103 
-Shift 3 : Time Period 350 
-Shift 4 : Time Period 508 
-Shift 5 : Time Period 624 
-Shift 6 : Time Period 823 
-Shift 7 : Time Period 916 
-Shift 8 : Time Period 988 
-Shift 9 : Time Period 1087 
-Shift 9 : OT starts at Time Period 1119 & ends at Time Period 1120
-Shift 10 : Time Period 1277 
-30th standard schdedule's shifts should start at time period :
-Shift 1 : Time Period 61 
-Shift 2 : Time Period 125 
-Shift 3 : Time Period 352 
-Shift 4 : Time Period 508 
-Shift 5 : Time Period 638 
-Shift 6 : Time Period 702 
-Shift 7 : Time Period 834 
-Shift 8 : Time Period 905 
-Shift 9 : Time Period 988 
-Shift 10 : Time Period 1310 
-1th compressed schdedule's shifts should start at time period :
-2th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 32
-Shift 2 : Time Period 220
-Shift 3 : Time Period 524
-Shift 4 : Time Period 607
-Shift 5 : Time Period 704
-Shift 6 : Time Period 1121
-Shift 7 : Time Period 1195
-Shift 8 : Time Period 1288
-3th compressed schdedule's shifts should start at time period :
-4th compressed schdedule's shifts should start at time period :
-5th compressed schdedule's shifts should start at time period :
-6th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 43
-Shift 2 : Time Period 417
-Shift 3 : Time Period 528
-Shift 4 : Time Period 622
-Shift 5 : Time Period 894
-Shift 6 : Time Period 1097
-Shift 7 : Time Period 1190
-Shift 8 : Time Period 1286
-Shift 8 : OT starts at Time Period 1326 & ends at Time Period 1328
-7th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 129
-Shift 2 : Time Period 231
-Shift 3 : Time Period 425
-Shift 4 : Time Period 513
-Shift 5 : Time Period 812
-Shift 6 : Time Period 1096
-Shift 7 : Time Period 1175
-Shift 8 : Time Period 1291
-8th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 138
-Shift 2 : Time Period 234
-Shift 3 : Time Period 327
-Shift 4 : Time Period 513
-Shift 5 : Time Period 715
-Shift 6 : Time Period 811
-Shift 7 : Time Period 906
-Shift 8 : Time Period 1187
-9th compressed schdedule's shifts should start at time period :
-10th compressed schdedule's shifts should start at time period :
-11th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 37
-Shift 1 : OT starts at Time Period 77 & ends at Time Period 80
-Shift 2 : Time Period 139
-Shift 3 : Time Period 233
-Shift 3 : OT starts at Time Period 273 & ends at Time Period 275
-Shift 4 : Time Period 451
-Shift 5 : Time Period 536
-Shift 6 : Time Period 1034
-Shift 7 : Time Period 1161
-Shift 8 : Time Period 1251
-12th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 135
-Shift 2 : Time Period 443
-Shift 3 : Time Period 517
-Shift 4 : Time Period 801
-Shift 5 : Time Period 903
-Shift 6 : Time Period 1114
-Shift 7 : Time Period 1200
-Shift 8 : Time Period 1305
-13th compressed schdedule's shifts should start at time period :
-14th compressed schdedule's shifts should start at time period :
-15th compressed schdedule's shifts should start at time period :
-16th compressed schdedule's shifts should start at time period :
-17th compressed schdedule's shifts should start at time period :
-18th compressed schdedule's shifts should start at time period :
-19th compressed schdedule's shifts should start at time period :
-20th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 40
-Shift 2 : Time Period 140
-Shift 3 : Time Period 427
-Shift 4 : Time Period 515
-Shift 5 : Time Period 588
-Shift 6 : Time Period 709
-Shift 6 : OT starts at Time Period 749 & ends at Time Period 752
-Shift 7 : Time Period 810
-Shift 8 : Time Period 999
-21th compressed schdedule's shifts should start at time period :
-22th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 1
-Shift 2 : Time Period 128
-Shift 3 : Time Period 423
-Shift 4 : Time Period 514
-Shift 5 : Time Period 614
-Shift 5 : OT starts at Time Period 654 & ends at Time Period 656
-Shift 6 : Time Period 743
-Shift 7 : Time Period 903
-Shift 8 : Time Period 1186
-23th compressed schdedule's shifts should start at time period :
-24th compressed schdedule's shifts should start at time period :
-25th compressed schdedule's shifts should start at time period :
-26th compressed schdedule's shifts should start at time period :
-27th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 40
-Shift 2 : Time Period 538
-Shift 3 : Time Period 618
-Shift 4 : Time Period 714
-Shift 5 : Time Period 800
-Shift 6 : Time Period 905
-Shift 6 : OT starts at Time Period 945 & ends at Time Period 947
-Shift 7 : Time Period 1091
-Shift 8 : Time Period 1182
-28th compressed schdedule's shifts should start at time period :
-Shift 1 : Time Period 136
-Shift 2 : Time Period 233
-Shift 3 : Time Period 394
-Shift 3 : OT starts at Time Period 434 & ends at Time Period 435
-Shift 4 : Time Period 491
-Shift 5 : Time Period 809
-Shift 6 : Time Period 1098
-Shift 7 : Time Period 1173
-Shift 8 : Time Period 1291
-29th compressed schdedule's shifts should start at time period :
-30th compressed schdedule's shifts should start at time period :
+For data obtained from ZJX_Central.csv:
+
+Model Status:
+Termination status: Optimal
+Best objective value: 2197.5
+Elapsed wall-clock time: 242.3090000152588 seconds
+Optimality gap at termination: 0.0%
+
+Shift_Scheduling_Problem_results:
+*****STANDARD SCHEDULES*****
+
+Schedule 0:
+Shift 1 starts at period: 126
+Shift 2 starts at period: 313
+Shift 3 starts at period: 507
+Shift 4 starts at period: 736
+Shift 5 starts at period: 814
+Shift 6 starts at period: 885
+Shift 7 starts at period: 988
+Shift 8 starts at period: 1115
+Shift 9 starts at period: 1219
+Shift 10 starts at period: 1309
+Schedule 1:
+Shift 1 starts at period: 70
+Shift 2 starts at period: 157
+Shift 3 starts at period: 314
+Shift 4 starts at period: 413
+Shift 5 starts at period: 540
+Shift 6 starts at period: 604
+Shift 7 starts at period: 733
+Shift 8 starts at period: 989
+Shift 9 starts at period: 1086 || overtime starts at 1118 and ends at 1118
+Shift 10 starts at period: 1190
+Schedule 2:
+Shift 1 starts at period: 157
+Shift 2 starts at period: 228
+Shift 3 starts at period: 330 || overtime starts at 362 and ends at 362
+Shift 4 starts at period: 445
+Shift 5 starts at period: 524
+Shift 6 starts at period: 637
+Shift 7 starts at period: 742
+Shift 8 starts at period: 1002 || overtime starts at 1034 and ends at 1034
+Shift 9 starts at period: 1118 || overtime starts at 1150 and ends at 1150
+Shift 10 starts at period: 1273
+Schedule 3:
+Shift 1 starts at period: 35
+Shift 2 starts at period: 144
+Shift 3 starts at period: 219
+Shift 4 starts at period: 409
+Shift 5 starts at period: 509
+Shift 6 starts at period: 605
+Shift 7 starts at period: 732
+Shift 8 starts at period: 845
+Shift 9 starts at period: 940
+Shift 10 starts at period: 1017
+Schedule 4:
+Shift 1 starts at period: 50
+Shift 2 starts at period: 316
+Shift 3 starts at period: 401 || overtime starts at 433 and ends at 433
+Shift 4 starts at period: 518
+Shift 5 starts at period: 612
+Shift 6 starts at period: 700
+Shift 7 starts at period: 898
+Shift 8 starts at period: 1007
+Shift 9 starts at period: 1122
+Shift 10 starts at period: 1211
+Schedule 5:
+Shift 1 starts at period: 31
+Shift 2 starts at period: 254
+Shift 3 starts at period: 330
+Shift 4 starts at period: 425
+Shift 5 starts at period: 623
+Shift 6 starts at period: 701
+Shift 7 starts at period: 798
+Shift 8 starts at period: 1018
+Shift 9 starts at period: 1086 || overtime starts at 1118 and ends at 1118
+Shift 10 starts at period: 1310
+Schedule 6:
+Shift 1 starts at period: 121
+Shift 2 starts at period: 226
+Shift 3 starts at period: 342
+Shift 4 starts at period: 446 || overtime starts at 478 and ends at 478
+Shift 5 starts at period: 536
+Shift 6 starts at period: 626
+Shift 7 starts at period: 793
+Shift 8 starts at period: 990
+Shift 9 starts at period: 1184
+Shift 10 starts at period: 1275
+Schedule 7:
+Shift 1 starts at period: 61
+Shift 2 starts at period: 220
+Shift 3 starts at period: 300
+Shift 4 starts at period: 414 || overtime starts at 446 and ends at 446
+Shift 5 starts at period: 513
+Shift 6 starts at period: 704
+Shift 7 starts at period: 892
+Shift 8 starts at period: 1021
+Shift 9 starts at period: 1085
+Shift 10 starts at period: 1278
+Schedule 8:
+Shift 1 starts at period: 29
+Shift 2 starts at period: 213
+Shift 3 starts at period: 350
+Shift 4 starts at period: 414 || overtime starts at 446 and ends at 446
+Shift 5 starts at period: 638
+Shift 6 starts at period: 724
+Shift 7 starts at period: 820
+Shift 8 starts at period: 978
+Shift 9 starts at period: 1098
+Shift 10 starts at period: 1305
+Schedule 9:
+Shift 1 starts at period: 28
+Shift 2 starts at period: 160
+Shift 3 starts at period: 252
+Shift 4 starts at period: 316
+Shift 5 starts at period: 442
+Shift 6 starts at period: 507
+Shift 7 starts at period: 701
+Shift 8 starts at period: 830
+Shift 9 starts at period: 925
+Shift 10 starts at period: 1074
+Schedule 10:
+Shift 1 starts at period: 150
+Shift 2 starts at period: 316
+Shift 3 starts at period: 448
+Shift 4 starts at period: 517
+Shift 5 starts at period: 606
+Shift 6 starts at period: 718 || overtime starts at 750 and ends at 750
+Shift 7 starts at period: 824
+Shift 8 starts at period: 924
+Shift 9 starts at period: 988
+Shift 10 starts at period: 1214
+Schedule 11:
+Shift 1 starts at period: 18
+Shift 2 starts at period: 252
+Shift 3 starts at period: 412
+Shift 4 starts at period: 548
+Shift 5 starts at period: 637
+Shift 6 starts at period: 833
+Shift 7 starts at period: 915
+Shift 8 starts at period: 1023
+Shift 9 starts at period: 1101
+Shift 10 starts at period: 1309
+Schedule 12:
+Shift 1 starts at period: 60
+Shift 2 starts at period: 149
+Shift 3 starts at period: 269
+Shift 4 starts at period: 351
+Shift 5 starts at period: 475
+Shift 6 starts at period: 732
+Shift 7 starts at period: 877
+Shift 8 starts at period: 972
+Shift 9 starts at period: 1181
+Shift 10 starts at period: 1284
+Schedule 13:
+Schedule 14:
+Shift 1 starts at period: 60
+Shift 2 starts at period: 124
+Shift 3 starts at period: 248
+Shift 4 starts at period: 334
+Shift 5 starts at period: 500
+Shift 6 starts at period: 697
+Shift 7 starts at period: 792
+Shift 8 starts at period: 901
+Shift 9 starts at period: 990
+Shift 10 starts at period: 1084
+Schedule 15:
+Shift 1 starts at period: 62
+Shift 2 starts at period: 351
+Shift 3 starts at period: 443
+Shift 4 starts at period: 541
+Shift 5 starts at period: 652
+Shift 6 starts at period: 797
+Shift 7 starts at period: 921
+Shift 8 starts at period: 1019
+Shift 9 starts at period: 1174
+Shift 10 starts at period: 1277
+Schedule 16:
+Shift 1 starts at period: 56
+Shift 2 starts at period: 173
+Shift 3 starts at period: 317
+Shift 4 starts at period: 603
+Shift 5 starts at period: 702
+Shift 6 starts at period: 829
+Shift 7 starts at period: 893
+Shift 8 starts at period: 1002
+Shift 9 starts at period: 1117
+Shift 10 starts at period: 1271
+Schedule 17:
+Schedule 18:
+Schedule 19:
+Schedule 20:
+Shift 1 starts at period: 121
+Shift 2 starts at period: 216
+Shift 3 starts at period: 345
+Shift 4 starts at period: 496
+Shift 5 starts at period: 603
+Shift 6 starts at period: 684
+Shift 7 starts at period: 790
+Shift 8 starts at period: 888
+Shift 9 starts at period: 1179
+Shift 10 starts at period: 1295
+Schedule 21:
+Schedule 22:
+Shift 1 starts at period: 29
+Shift 2 starts at period: 122
+Shift 3 starts at period: 203
+Shift 4 starts at period: 336
+Shift 5 starts at period: 433
+Shift 6 starts at period: 513
+Shift 7 starts at period: 631
+Shift 8 starts at period: 724
+Shift 9 starts at period: 1006
+Shift 10 starts at period: 1269
+Schedule 23:
+Schedule 24:
+
+
+
+*****COMPRESSED SCHEDULES*****
+
+Schedule 0:
+Shift 1 starts at period: 0
+Shift 2 starts at period: 102
+Shift 3 starts at period: 326
+Shift 4 starts at period: 422
+Shift 5 starts at period: 613 || overtime starts at 653 and ends at 654
+Shift 6 starts at period: 799
+Shift 7 starts at period: 891
+Shift 8 starts at period: 1198
+Schedule 1:
+Schedule 2:
+Shift 1 starts at period: 31
+Shift 2 starts at period: 425
+Shift 3 starts at period: 616
+Shift 4 starts at period: 714
+Shift 5 starts at period: 806
+Shift 6 starts at period: 904 || overtime starts at 944 and ends at 944
+Shift 7 starts at period: 1097
+Shift 8 starts at period: 1193
+Schedule 3:
+Schedule 4:
+Schedule 5:
+Schedule 6:
+Schedule 7:
+Shift 1 starts at period: 137
+Shift 2 starts at period: 231
+Shift 3 starts at period: 421
+Shift 4 starts at period: 514
+Shift 5 starts at period: 810
+Shift 6 starts at period: 998
+Shift 7 starts at period: 1162
+Shift 8 starts at period: 1251
+Schedule 8:
+Shift 1 starts at period: 40
+Shift 2 starts at period: 138
+Shift 3 starts at period: 585
+Shift 4 starts at period: 708 || overtime starts at 748 and ends at 750
+Shift 5 starts at period: 904
+Shift 6 starts at period: 1092
+Shift 7 starts at period: 1183
+Shift 8 starts at period: 1287
+Schedule 9:
+Schedule 10:
+Shift 1 starts at period: 42
+Shift 2 starts at period: 127
+Shift 3 starts at period: 233 || overtime starts at 273 and ends at 273
+Shift 4 starts at period: 600
+Shift 5 starts at period: 712
+Shift 6 starts at period: 902
+Shift 7 starts at period: 1190
+Shift 8 starts at period: 1304
+Schedule 11:
+Schedule 12:
+Schedule 13:
+Shift 1 starts at period: 36 || overtime starts at 76 and ends at 78
+Shift 2 starts at period: 128
+Shift 3 starts at period: 231
+Shift 4 starts at period: 418
+Shift 5 starts at period: 774
+Shift 6 starts at period: 1090
+Shift 7 starts at period: 1184
+Shift 8 starts at period: 1285 || overtime starts at 1325 and ends at 1326
+Schedule 14:
+Shift 1 starts at period: 136
+Shift 2 starts at period: 220
+Shift 3 starts at period: 512
+Shift 4 starts at period: 618
+Shift 5 starts at period: 809
+Shift 6 starts at period: 1033 || overtime starts at 1073 and ends at 1073
+Shift 7 starts at period: 1124
+Shift 8 starts at period: 1206
+Schedule 15:
+Schedule 16:
+Shift 1 starts at period: 39
+Shift 2 starts at period: 232 || overtime starts at 272 and ends at 272
+Shift 3 starts at period: 545
+Shift 4 starts at period: 799
+Shift 5 starts at period: 905 || overtime starts at 945 and ends at 945
+Shift 6 starts at period: 1095
+Shift 7 starts at period: 1186
+Shift 8 starts at period: 1291
+Schedule 17:
+Schedule 18:
+Schedule 19:
+Schedule 20:
+Shift 1 starts at period: 134
+Shift 2 starts at period: 361
+Shift 3 starts at period: 523
+Shift 4 starts at period: 703
+Shift 5 starts at period: 808
+Shift 6 starts at period: 1085
+Shift 7 starts at period: 1171
+Shift 8 starts at period: 1292
+Schedule 21:
+Schedule 22:
+Schedule 23:
+Schedule 24:
+
+
+--XX--XX--XX--XX--XX--XX--XX--XX--XX--XX--XX--XX--XX--
+
